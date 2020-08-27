@@ -1,6 +1,14 @@
 # Sass-7-1-pattern
 Sass 7-1 pattern a télécharger pour ses projets avec sass, contien aussi un fichier de config et postCSS et Autoprefixer.
 
+# Cloner le Pattern 7-1
+
+``
+$ git clone https://github.com/gaetanprot/Sass-7-1-pattern.git
+$ cd Sass-7-1-pattern
+$ npm install
+``
+
 # Installation Sass
 
 ``
