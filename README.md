@@ -3,36 +3,36 @@ Sass 7-1 pattern a télécharger pour ses projets avec sass, contien aussi un fi
 
 # Cloner le Pattern 7-1
 
-``
+```sh
 $ git clone https://github.com/gaetanprot/Sass-7-1-pattern.git
 $ cd Sass-7-1-pattern
 $ npm install
-``
+```
 
 # Installation Sass
 
-``
+```sh
 $ npm install sass -g
 $ sass --version
-``
+```
 
 # Installation Autoprefixer et postCSS
 
-``
+```sh
 $ npm install autoprefixer postcss postcss-cli -g 
-``
+```
 
 # Installation Bootstrap 
 
-``
+```sh
 $ npm install bootstrap
-``
+```
 
 # Installation de Jquery 
 
-``
+```sh
 $ npm install jquery
-``
+```
 
 # Dossier de Base
 
