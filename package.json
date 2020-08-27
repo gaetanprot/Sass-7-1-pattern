@@ -1,0 +1,21 @@
+{
+  "name": "sass-7-1-pattern",
+  "version": "0.1.0",
+  "description": "Sass 7-1 pattern a télécharger pour ses projets avec sass, contien aussi un fichier de config et postCSS et Autoprefixer",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass ./sass/main.scss:./public/css/style.css",
+    "prefix": "postcss ./public/css/style.css --use autoprefixer -d ./public/css/prefixed/" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaetanprot/Sass-7-1-pattern.git"
+  },
+  "author": "Gaëtan Prot",
+  "license": "MIT",
+  "browserslist": "last 4 versions",
+  "bugs": {
+    "url": "https://github.com/gaetanprot/Sass-7-1-pattern/issues"
+  },
+  "homepage": "https://github.com/gaetanprot/Sass-7-1-pattern#readme"
+}
