@@ -1,40 +1,40 @@
 @import 
-    'abstracts/variables',
-    'abstracts/functions',
-    'abstracts/mixins',
-    'abstracts/placeholders',
-    'abstracts/helpers';
+    './abstracts/__variables',
+    './abstracts/__functions',
+    './abstracts/__mixins',
+    './abstracts/__placeholders',
+    './abstracts/__helpers';
 
 @import 
-    'vendors/bootstrap',
-    'vendors/jquery-ui';
+    'vendors/__bootstrap',
+    'vendors/__jquery-ui';
 
 @import 
-    'base/reset',
-    'base/base',
-    'base/typography';
+    'base/__reset',
+    'base/__base',
+    'base/__typography';
 
 @import 
-    'layout/navigation',
-    'layout/grid',
-    'layout/header',
-    'layout/footer',
-    'layout/sidebar',
-    'layout/forms';
+    'layout/__navigation',
+    'layout/__grid',
+    'layout/__header',
+    'layout/__footer',
+    'layout/__sidebar',
+    'layout/__forms';
 
 @import 
-    'components/buttons',
-    'components/carousel',
-    'components/cover',
-    'components/dropdown',
-    'components/media';
+    'components/__buttons',
+    'components/__carousel',
+    'components/__cover',
+    'components/__dropdown',
+    'components/__media';
 
 @import 
-    'pages/home',
-    'pages/contact';
+    'pages/__home',
+    'pages/__contact';
 
 @import 
-    'themes/theme',
-    'themes/admin';
+    'themes/__theme',
+    'themes/__admin';
 
-@import './shame';
+@import './__shame';
