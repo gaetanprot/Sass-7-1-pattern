@@ -66,4 +66,4 @@ Enfin, la plupart des projets auront un vendors/ contenant tous les fichiers CSS
 ---
 
 Le fichier principal (généralement étiqueté main.scss) doit être le seul fichier Sass de toute la base de code à ne pas commencer par un trait de soulignement. Ce fichier ne doit contenir que des @importcommentaires.
-Les fichiers doivent être importés en fonction du dossier dans lequel ils résident, l'un après l'autre dans l'ordre suivant:
+Les fichiers doivent être importés en fonction du dossier dans lequel ils résident dans le fichier main.scss.
