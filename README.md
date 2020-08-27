@@ -1,5 +1,5 @@
 # Sass-7-1-pattern
-Sass 7-1 pattern a télécharger pour ses projets avec sass, contient Bootstrp, Jquery, postCSS et Autoprefixer
+Sass 7-1 pattern a télécharger pour ses projets avec sass, contient Bootstrap, Jquery, postCSS et Autoprefixer
 
 # Cloner le Pattern 7-1
 
